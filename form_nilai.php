@@ -21,9 +21,9 @@
                 <div class="col-8">
                     <select id="matkul" name="matkul" class="custom-select">
                         <option selected="true" disabled="disabled">-- Pilih --</option>
-                        <option value="DDP">Dasar-Dasar Pemrograman</option>
-                        <option value="BDI">Basis Data I</option>
-                        <option value="WEB1">Pemrograman Web</option>
+                        <option value="Dasar-Dasar Pemrograman">Dasar-Dasar Pemrograman</option>
+                        <option value="Basis Data I">Basis Data I</option>
+                        <option value="Pemrograman Web">Pemrograman Web</option>
                     </select>
                 </div>
             </div>
